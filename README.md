@@ -68,7 +68,9 @@
 
 ### 🐍 Eat. Code. Repeat.
 
-<img src="https://raw.githubusercontent.com/SONA-LK/SONA-LK/output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SONA-LK/SONA-LK/output/github-contribution-grid-snake.svg" />
+</p>
 
 </div>
 
